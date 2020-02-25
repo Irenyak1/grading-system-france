@@ -1,0 +1,27 @@
+{
+  "name": "grade",
+  "version": "1.0.0",
+  "description": "Grading system for University students",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Irene Nyakate",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irenyak1/France-Grading-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Irenyak1/France-Grading-System/issues"
+  },
+  "homepage": "https://github.com/Irenyak1/France-Grading-System#readme"
+}
