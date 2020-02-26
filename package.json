@@ -13,7 +13,8 @@
   },
   "scripts": {
     "test": "jest",
-    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "jest-coverage": "npm run test -- --coverage"
   },
   "author": "Irene Nyakate",
   "license": "ISC",
