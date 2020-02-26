@@ -20,10 +20,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Irenyak1/France-Grading-System.git"
+    "url": "git+https://github.com/Irenyak1/grading-system-france.git"
   },
   "bugs": {
-    "url": "https://github.com/Irenyak1/France-Grading-System/issues"
+    "url": "https://github.com/Irenyak1/grading-system-france/issues"
   },
-  "homepage": "https://github.com/Irenyak1/France-Grading-System#readme"
+  "homepage": "https://github.com/Irenyak1/grading-system-france#readme"
 }
