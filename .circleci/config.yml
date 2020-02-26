@@ -12,7 +12,6 @@ jobs:
           steps:
             - run: npm install
             - run: npm test
-       - coveralls/upload
 workflows:
   build-and-test:
     jobs:
