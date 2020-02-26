@@ -16,6 +16,9 @@
     "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
     "jest-coverage": "npm run test -- --coverage"
   },
+  "jest": {
+    "collectCoverage": true
+  },
   "author": "Irene Nyakate",
   "license": "ISC",
   "keywords": [],
